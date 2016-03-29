@@ -1,3 +1,4 @@
+#基于PyCUDA调用GPU系列接口的Python库Scikits.Cuda
 .. -*- rst -*-
 
 ..  image:: https://raw.githubusercontent.com/lebedov/scikit-cuda/master/docs/source/_static/logo.png
